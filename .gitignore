@@ -1,0 +1,28 @@
+# Compiled Java files
+*.class
+*.jar
+*.war
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Build files
+.classpath
+.project
+.settings/
+bin/
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*~
